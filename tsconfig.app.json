@@ -22,6 +22,7 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
 
+    "baseUrl": ".",
     "paths": {
       "@views/*": ["./src/views/*"],
       "@app/*": ["./src/app/*"]
